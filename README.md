@@ -61,4 +61,4 @@ How difficult it would be to get used to working with TDD in the beginning.
 
 ####- Did TDD help you write some tests you wouldn’t otherwise have thought of?
 
-It helped me write some extra test to make sure that the code was working as intended. For example checking that 9 would be converted to IX, and not VIIII.
+It helped me write some additional tests to make sure that the code was working as intended. For example checking that 9 would be converted to IX, and not VIIII.
